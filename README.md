@@ -1,14 +1,28 @@
+Thanks for visiting! Feel free to explore my repositories and collaborate on projects. 🚀
+
+
+
+
 # Hi, I'm Jonibek  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
+### Welcome to my GitHub <img src="https://media.tenor.com/KDRVCsqk4bUAAAAi/your-welcome.gif" alt="waving hand gif" aria-hidden="true" width="30" />
 
-## Contacts
-<a href="https://instagram.com/qurbonoff.11" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a> <a href="https://t.me/Qurbonoff_11" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/>
+## <img src="https://static.wikia.nocookie.net/mopeio/images/f/f6/FireGif-S2.gif/revision/latest/scale-to-width/360?cb=20220429030005" alt="waving hand gif" aria-hidden="true" width="20" /> About Me
+<!-- - 💻 I specialize in [Your Specialization] -->
+<!-- - 🚀 I enjoy working on [Type of Projects You Like] -->
+- 📚 Always learning and improving my skills
+
+## <img src="https://static.wixstatic.com/media/94da28_6e955a2693f948cfbc11ee3803e82f88~mv2.gif" alt="waving hand gif" aria-hidden="true" width="30" style="margin-bottom: -7px;"/> Contact Me
+- <a href="https://instagram.com/qurbonoff.11" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a>
+- <a href="https://t.me/Qurbonoff_11" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
+- <a href="https://jonibekqurbonov570@gmail.com" title="Email"><img alt="Email" src="[jonibekqurbonov570@gmail.com](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)" height="30" align="center"/> </a>
+- <a href="#" title="Website"><img alt="Website" src="[[jonibekqurbonov570@gmail.com](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=circuitverse&logoColor=white)" height="30" align="center"/> </a>
 
 <!-- <a href="https://www.linkedin.com/in/john-mwendwa/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> -->
 
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> -->
 
-[- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
+<!-- [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]:: -->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,pug,git,github,md,notion,npm,ps,powershell,py,pycharm,sublime,vscode,webstorm,windows,figma,bash&perline=13)](#)
