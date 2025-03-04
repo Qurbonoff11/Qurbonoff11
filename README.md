@@ -15,8 +15,9 @@ Thanks for visiting! Feel free to explore my repositories and collaborate on pro
 ## <img src="https://static.wixstatic.com/media/94da28_6e955a2693f948cfbc11ee3803e82f88~mv2.gif" alt="waving hand gif" aria-hidden="true" width="30" style="margin-bottom: -7px;"/> Contact Me
 - <a href="https://instagram.com/qurbonoff.11" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a>
 - <a href="https://t.me/Qurbonoff_11" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
-- <a href="https://jonibekqurbonov570@gmail.com" title="Email"><img alt="Email" src="[jonibekqurbonov570@gmail.com](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)" height="30" align="center"/> </a>
-- <a href="#" title="Website"><img alt="Website" src="[[jonibekqurbonov570@gmail.com](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=circuitverse&logoColor=white)" height="30" align="center"/> </a>
+- <a href="https://jonibekqurbonov570@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/> </a>
+- <a href="#" title="Website"><img alt="Website" src="https://img.shields.io/badge/Web_Site-black?style=for-the-badge&logo=circuitverse&logoColor=white" height="30" align="center"/> </a>
+
 
 <!-- <a href="https://www.linkedin.com/in/john-mwendwa/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> -->
 
