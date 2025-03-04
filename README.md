@@ -1,8 +1,8 @@
 # Hi, I'm Jonibek  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-### Welcome to my GitHub <img src="https://media.contented.ru/wp-content/uploads/2023/08/hi-1.gif" alt="waving hand gif" aria-hidden="true" width="30"/>
+<!-- ### Welcome to my GitHub <img src="https://media.contented.ru/wp-content/uploads/2023/08/hi-1.gif" alt="waving hand gif" aria-hidden="true" width="30"/> -->
 
-<!-- ### Welcome to my GitHub <img src="https://media.tenor.com/KDRVCsqk4bUAAAAi/your-welcome.gif" alt="waving hand gif" aria-hidden="true" width="30" /> -->
+### Welcome to my GitHub <img src="https://media.tenor.com/KDRVCsqk4bUAAAAi/your-welcome.gif" alt="waving hand gif" aria-hidden="true" width="30" />
 
 ## <img src="https://static.wikia.nocookie.net/mopeio/images/f/f6/FireGif-S2.gif/revision/latest/scale-to-width/360?cb=20220429030005" alt="waving hand gif" aria-hidden="true" width="20" /> About Me
 <!-- - 💻 I specialize in [Your Specialization] -->
