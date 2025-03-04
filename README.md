@@ -28,7 +28,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Qurbonoff11&color=ff0000) -->
-![GitHub watchers](https://img.shields.io/github/Github_watchers/Qurbonoff11/Qurbonoff11?style=for-the-badge&logo=github&color=ff0000)
+
+![GitHub watchers](https://img.shields.io/github/watchers/Qurbonoff11/Qurbonoff11?style=for-the-badge&logo=github&label=Github%20watchers)
+
 
  [![Qurbonoff11's github stats](https://bad-apple-github-readme.vercel.app/api?username=Qurbonoff11&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
