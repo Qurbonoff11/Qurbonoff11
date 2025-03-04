@@ -5,13 +5,13 @@
 ## <img src="https://static.wikia.nocookie.net/mopeio/images/f/f6/FireGif-S2.gif/revision/latest/scale-to-width/360?cb=20220429030005" alt="waving hand gif" aria-hidden="true" width="20" /> About Me
 <!-- - 💻 I specialize in [Your Specialization] -->
 <!-- - 🚀 I enjoy working on [Type of Projects You Like] -->
-- 📚 Always learning and improving my skills
+- <img src="https://i.pinimg.com/originals/2e/36/16/2e3616d516582e7610fdb777e903ddef.gif" alt="waving hand gif" aria-hidden="true" height="24" style="margin-bottom: -4px;"/> Always learning and improving my skills
 
 ## <img src="https://static.wixstatic.com/media/94da28_6e955a2693f948cfbc11ee3803e82f88~mv2.gif" alt="waving hand gif" aria-hidden="true" width="30" style="margin-bottom: -7px;"/> Contact Me
-- <a href="https://instagram.com/qurbonoff.11" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a>
-- <a href="https://t.me/Qurbonoff_11" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
-- <a href="https://jonibekqurbonov570@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Web_Site-%23ff0000?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/> </a>
-- <a href="#" title="Website"><img alt="Website" src="https://img.shields.io/badge/Web_Site-yellow?style=for-the-badge&logo=circuitverse&logoColor=white" height="30" align="center"/> </a>
+<a href="https://instagram.com/qurbonoff.11" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a>
+<a href="https://t.me/Qurbonoff_11" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
+<a href="https://jonibekqurbonov570@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Web_Site-%23ff0000?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/> </a>
+<a href="#" title="Website"><img alt="Website" src="https://img.shields.io/badge/Web_Site-yellow?style=for-the-badge&logo=circuitverse&logoColor=white" height="30" align="center"/> </a>
 
 
 <!-- <a href="https://www.linkedin.com/in/john-mwendwa/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> -->
