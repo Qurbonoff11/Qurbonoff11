@@ -24,10 +24,10 @@
 <div align="center">
 
 <a href="https://instagram.com/qurbonoff.11" target="_blank">
-<img src=./img/icons8-instagram-logo-94.png alt=instagram  height="60px"/>
+    <img src=./img/icons8-instagram-logo-94.png alt=instagram  height="60px"/>
 </a>
-<a hraf="https://t.me/Qurbonoff_11" target="_blank">
-<img src=./img/icons8-telegram-logo-94.png alt=telegram height="58px" style="margin-bottom: 2px;">
+<a href="https://t.me/Qurbonoff_11" target="_blank">
+    <img src=./img/icons8-telegram-logo-94.png alt=telegram height="58px" style="margin-bottom: 2px;">
 </a>
 </div>
 
