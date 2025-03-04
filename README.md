@@ -1,8 +1,3 @@
-Thanks for visiting! Feel free to explore my repositories and collaborate on projects. 🚀
-
-
-
-
 # Hi, I'm Jonibek  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 ### Welcome to my GitHub <img src="https://media.tenor.com/KDRVCsqk4bUAAAAi/your-welcome.gif" alt="waving hand gif" aria-hidden="true" width="30" />
@@ -47,8 +42,8 @@ Thanks for visiting! Feel free to explore my repositories and collaborate on pro
 
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Qurbonoff&fontAlignY=50&fontAlign=50&textBg=false&section=header&reversal=false&fontColor=gradient&rotate=0"/>
+     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient"/>
 </p>
 
-
+___Thanks for visiting! Feel free to explore my repositories and collaborate on projects.___ <img src="https://i.giphy.com/23D8NR89IoZUC9jgsO.webp" alt="Hammer and Wrench" height="20" style="margin-bottom: -3px;"/>
 
