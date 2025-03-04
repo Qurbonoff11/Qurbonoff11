@@ -36,9 +36,7 @@
 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Qurbonoff11&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-<!-- [![Qurbonoff's current streak](https://streak-stats.demolab.com/?user=Qurbonoff11&count_private=true&theme=blue-green&title_color=00b3ff)](#) -->
-
-
+[![Qurbonoff's current streak](https://streak-stats.demolab.com/?user=Qurbonoff11&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ### GitHub Profile Insights
 
