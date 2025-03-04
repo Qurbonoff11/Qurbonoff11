@@ -1,49 +1,36 @@
-<style>
+<h1 align="left">Hey What's up? <img src="./img/hand-waving-hand.gif" height="25px"></h1>
 
-/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap'); */
+###
 
-h1{
-    font-family: "Dancing Script";
-    font-size: 40px;
-}
+<p align="left">My name is Jonibek </p>
 
-h1 img{
-    width: 40px;
-}
+###
 
-</style>
+<h2 align="left">About me</h2>
 
-# Hi, I'm Jonibek ![This is hi gif](./img/hand-waving-hand.gif)
+###
 
-<h3>👨‍💻 Me:</h3>
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
-<ul>
+###
 
-<li>
-<img src="./img/icons8-telegram-logo-94.png" width="20px"> <a href="https://t.me/Qurbonoff_11">My Telegram</a>
-</li>
+<h2 align="left">Skills</h2>
 
-<li>
-<img src="./img/icons8-instagram-logo-94.png" width="20px"> <a href="https://t.me/Qurbonoff_11">My Instagram</a>
-</li>
+###
 
-<li>
-<p><b>Phone number:</b> <i>+998(94)333-20-06</i> </p>
-</li>
-
-</ul>
-
----
-
-<h2>Welcome to my GitHub 😊</h2>
-
-<h3>Technologies & Languages</h3>
-
-<div class="images">
-    <img src="./img/html-5.png">
-    <img src="./img/css-3.png">
-    <img src="./img/icons8-bootstrap-logo-240.png">
-    <img src="./img/seal-color.png">
-    <img src="./img/Tailwind CSS.png">
-    <img src="./img/markdown-icon.png">
+<div align="left">
+  <img src="./img/html-5.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="./img/css-3.png" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="./img/icons8-bootstrap-logo-240.png" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="./img/seal-color.png" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="./img/Tailwind CSS.png" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="./img/markdown-icon.png" height="40" alt="nodejs logo"  />
+  <img width="12" />
 </div>
+
+###
