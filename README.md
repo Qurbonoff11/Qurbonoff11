@@ -43,11 +43,11 @@ Thanks for visiting! Feel free to explore my repositories and collaborate on pro
 
 [![Qurbonoff's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Qurbonoff11&theme=github)](https://github.com/Qurbonoff11)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Qurbonoff11&color=green)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Qurbonoff11&color=green) -->
 
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Qurbonoff&fontAlignY=50&fontAlign=50&textBg=false&section=header&reversal=false&fontColor=gradient&rotate=0"/>
 </p>
 
 
