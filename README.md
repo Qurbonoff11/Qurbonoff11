@@ -21,8 +21,14 @@
 
 
 ## Connect with me
-<div align="center" style="display: flex; justify-content: start; align-items: center; gap: .5rem;">
-<img src="./img/icons8-telegram-logo-94.png" height="20px"><a style="color: white; " href="https://t.me/Qurbonoff_11">My Telegram</a>
+<div align="center">
+
+<a href="https://instagram.com/qurbonoff.11" target="_blank">
+<img src=./img/icons8-instagram-logo-94.png alt=instagram  height="60px"/>
+</a>
+<a hraf="https://t.me/Qurbonoff_11" target="_blank">
+<img src=./img/icons8-telegram-logo-94.png alt=telegram height="58px" style="margin-bottom: 2px;">
+</a>
 </div>
 
 
@@ -38,24 +44,10 @@
 
 <br/>
 
-
-## Recent Blog Posts
-
-
-<br/>
-
-
-
-<br/>
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=qurbonoof11&&style=flat-square" align="center" />
 </div>
 
-
 <br/>
 
-
-<br />
-
-----
+***
