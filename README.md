@@ -2,55 +2,18 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
-ul{
-    list-style: none;
-
-    li{
-        display: flex;
-        justify-content: flex-start;
-        align-items: center;
-        gap: 1rem;
-
-        a{
-            color: white;
-        }
-        a:hover{
-            color:rgb(193, 103, 232);
-            text-decoration: none;
-        }
-    }
+h1{
+    font-family: "Dancing Script";
+    font-size: 40px;
 }
 
-.hi{
-    font-family: "Dancing Script", serif;
-    font-size: 35px;
-    font-weight: 600;
-
-    img{
-        width: 25px;
-    }
+h1 img{
+    width: 40px;
 }
 
-.images{
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 1rem;
-    border: 2px solid #777;
-    border-radius: 1rem;
-    padding: 2rem;
-
-    img{
-        width: 80px;
-    }
-}
 </style>
 
-
-<h1  class="hi">Hi, I'm Jonibek
-    <img src="./img/hand-waving-hand.gif">
-</h1>
+# Hi, I'm Jonibek ![This is hi gif](./img/hand-waving-hand.gif)
 
 <h3>👨‍💻 Me:</h3>
 
