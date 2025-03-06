@@ -31,12 +31,11 @@
 
 ![GitHub watchers](https://img.shields.io/github/watchers/Qurbonoff11/Qurbonoff11?style=for-the-badge&logo=github&label=Github%20watchers)
 
+![](https://github-readme-stats.vercel.app/api?username=qurbonoff11&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=qurbonoff11&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=qurbonoff11&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
- [![Qurbonoff11's github stats](https://bad-apple-github-readme.vercel.app/api?username=Qurbonoff11&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
-
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Qurbonoff11&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-[![Qurbonoff's current streak](https://streak-stats.demolab.com/?user=Qurbonoff11&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+![](https://github-profile-trophy.vercel.app/?username=qurbonoff11&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ### GitHub Profile Insights
 
@@ -44,7 +43,7 @@
 
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient"/>
+     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&section=header&reversal=false"/>
 </p>
 
 ___Thanks for visiting! Feel free to explore my repositories and collaborate on projects.___ <img src="https://i.giphy.com/23D8NR89IoZUC9jgsO.webp" alt="Hammer and Wrench" height="20" style="margin-bottom: -3px;"/>
