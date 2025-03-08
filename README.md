@@ -44,7 +44,7 @@
 
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient"/>
+     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient"/>
 </p>
 
 ___Thanks for visiting! Feel free to explore my repositories and collaborate on projects.___ <img src="https://i.giphy.com/23D8NR89IoZUC9jgsO.webp" alt="Hammer and Wrench" height="20" style="margin-bottom: -3px;"/>
