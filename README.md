@@ -23,7 +23,7 @@
 <!-- [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]:: -->
 
 ## <img src="https://images.squarespace-cdn.com/content/v1/5f89b1bd7f2f51237c7e1662/1603830221701-750TOUJK5NFPQBFDHRLR/Pool+Docs+Icon+Animation+%28Tools%29.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,pug,git,github,md,notion,npm,ps,pycharm,sublime,vscode,webstorm,figma,bash,less&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,pug,git,github,md,notion,npm,ps,ai,pycharm,sublime,vscode,webstorm,figma,bash,less&perline=13)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
 
