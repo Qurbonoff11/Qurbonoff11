@@ -1,4 +1,4 @@
-# Hi, I'm Jonibek  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi, I'm Qurbonoff  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 <!-- ### Welcome to my GitHub <img src="https://media.contented.ru/wp-content/uploads/2023/08/hi-1.gif" alt="waving hand gif" aria-hidden="true" width="30"/> -->
 
@@ -7,6 +7,7 @@
 ## <img src="https://static.wikia.nocookie.net/mopeio/images/f/f6/FireGif-S2.gif/revision/latest/scale-to-width/360?cb=20220429030005" alt="waving hand gif" aria-hidden="true" width="20" /> About Me
 <!-- - 💻 I specialize in [Your Specialization] -->
 <!-- - 🚀 I enjoy working on [Type of Projects You Like] -->
+- <img src="https://cdn.pixabay.com/animation/2023/09/11/20/23/20-23-05-544_512.gif" alt="waving hand gif" aria-hidden="true" height="24" style="margin-bottom: -4px;"/> My full name Qurbonov Jonibek from Karshi, Uzbekistan
 - <img src="https://i.pinimg.com/originals/2e/36/16/2e3616d516582e7610fdb777e903ddef.gif" alt="waving hand gif" aria-hidden="true" height="24" style="margin-bottom: -4px;"/> Always learning and improving my skills
 
 ## <img src="https://prime-sender.com/gifs/contact-us.gif" alt="waving hand gif" aria-hidden="true" height="30"/> Contact Me
