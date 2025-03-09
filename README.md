@@ -29,8 +29,7 @@
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Qurbonoff11&color=ff0000) -->
 
-![GitHub watchers](https://img.shields.io/github/watchers/Qurbonoff11/Qurbonoff11?style=for-the-badge&logo=github&label=Github%20watchers)
-
+![GitHub followers](https://img.shields.io/github/followers/qurbonoff11?style=for-the-badge&logo=github&logoColor=%2300ffff&label=GitHub%20follower&labelColor=%23555555&color=%2300ffff)
 
  [![Qurbonoff11's github stats](https://bad-apple-github-readme.vercel.app/api?username=Qurbonoff11&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
