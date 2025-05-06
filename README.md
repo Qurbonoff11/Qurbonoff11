@@ -15,8 +15,10 @@
 ## <img src="https://images.squarespace-cdn.com/content/v1/5f89b1bd7f2f51237c7e1662/1603830221701-750TOUJK5NFPQBFDHRLR/Pool+Docs+Icon+Animation+%28Tools%29.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,sass,bootstrap,tailwind,less,pug,git,github,md,notion,npm,ps,ai,pycharm,sublime,vscode,webstorm,figma,bash,codepen&perline=13)](#)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=qurbonoff11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
 
 ![GitHub followers](https://img.shields.io/github/followers/qurbonoff11?style=for-the-badge&logo=github&logoColor=%2300ffff&label=GitHub%20follower&labelColor=%23555555&color=%2300ffff)
 
