@@ -13,7 +13,7 @@
 <a href="https://qurbonoff.netlify.app" title="Website"><img alt="Website" src="https://img.shields.io/badge/Web_Site-yellow?style=for-the-badge&logo=circuitverse&logoColor=white" height="30" align="center"/> </a>
 
 ## <img src="https://images.squarespace-cdn.com/content/v1/5f89b1bd7f2f51237c7e1662/1603830221701-750TOUJK5NFPQBFDHRLR/Pool+Docs+Icon+Animation+%28Tools%29.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,vue,ts,python,c,cs,cpp,php,sass,bootstrap,tailwind,less,pug,bots,regex,git,github,gitlab.netlify,md,notion,npm,ps,ai,ae,pr,blender,pycharm,sublime,vscode,webstorm,figma,bash,codepen&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,vue,ts,python,c,cs,cpp,php,sass,bootstrap,tailwind,less,pug,bots,regex,git,github,gitlab,netlify,md,notion,npm,ps,ai,ae,pr,blender,pycharm,sublime,vscode,webstorm,figma,bash,codepen&perline=13)](#)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=qurbonoff11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
