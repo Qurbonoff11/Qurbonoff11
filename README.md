@@ -1,4 +1,4 @@
-# Hi, I'm Qurbonoff 👋
+# Hi, I'm Qurbonov Jonibek 👋
 
 🚀 Junior Full Stack Developer  
 🌍 From Uzbekistan | Open to Remote & Local opportunities
