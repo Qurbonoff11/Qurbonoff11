@@ -52,7 +52,7 @@ Each project has documentation and clean structure.
 ---
 
 ## 📬 Contact Me
-- 🌐 Portfolio: https://qurbonoff.netlify.app  
+- 🌐 Portfolio: https://qurbonoff.uz
 - 💬 Telegram: https://t.me/Qurbonoff_11  
 - 📸 Instagram: https://instagram.com/qurbonoff.11  
 
