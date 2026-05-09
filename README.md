@@ -1,99 +1,40 @@
-<h1 align="left">Hi Developers 👋🏻</h1>
+# Hi, I'm Qurbonoff  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-###
+### Welcome to my GitHub <img src="https://media.tenor.com/KDRVCsqk4bUAAAAi/your-welcome.gif" alt="waving hand gif" aria-hidden="true" width="30" />
 
-<p align="left">My name is Jonibek I'am Front end Developer</p>
+## <img src="https://static.wikia.nocookie.net/mopeio/images/f/f6/FireGif-S2.gif/revision/latest/scale-to-width/360?cb=20220429030005" alt="waving hand gif" aria-hidden="true" width="20" /> About Me
+- <img src="https://cdn.pixabay.com/animation/2023/09/11/20/23/20-23-05-544_512.gif" alt="waving hand gif" aria-hidden="true" height="24" style="margin-bottom: -4px;"/> My full name Qurbonov Jonibek from Karshi, Uzbekistan
+- <img src="https://i.pinimg.com/originals/2e/36/16/2e3616d516582e7610fdb777e903ddef.gif" alt="waving hand gif" aria-hidden="true" height="24" style="margin-bottom: -4px;"/> Always learning and improving my skills
 
-###
+## <img src="https://prime-sender.com/gifs/contact-us.gif" alt="waving hand gif" aria-hidden="true" height="30"/> Contact Me
+<a href="https://instagram.com/qurbonoff.11" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a>
+<a href="https://t.me/Qurbonoff_11" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=qurbonoff11&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/> </a>
+<a href="https://qurbonoff.netlify.app" title="Website"><img alt="Website" src="https://img.shields.io/badge/Web_Site-yellow?style=for-the-badge&logo=circuitverse&logoColor=white" height="30" align="center"/> </a>
 
-<h2 align="left">About me 👤</h2>
+## <img src="https://images.squarespace-cdn.com/content/v1/5f89b1bd7f2f51237c7e1662/1603830221701-750TOUJK5NFPQBFDHRLR/Pool+Docs+Icon+Animation+%28Tools%29.gif" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**
+[![My Skills](https://skillicons.dev/icons?i=html,htmx,css,js,react,vite,vue,ts,python,cpp,php,sass,bootstrap,tailwind,less,pug,bots,regex,git,github,gitlab,netlify,md,notion,npm,ps,ai,ae,pr,blender,pycharm,sublime,vscode,webstorm,figma,bash,codepen,linux,kali,phpstorm,atom,babel,d3,discord,mongodb,nextjs,nodejs,nuxtjs,visualstudio,vitest,firebase&perline=13)](#)
 
-###
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=qurbonoff11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left">✨ Passionate Software Developer focused on building clean, efficient, and scalable solutions.<br>📚 Currently learning Python, Django, and Artificial Intelligence.<br>🎯 Goal: To become a skilled full-stack developer and contribute to impactful open-source projects.<br>🎲 Fun fact: I enjoy turning complex problems into simple, elegant code.</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
 
-###
+![GitHub followers](https://img.shields.io/github/followers/qurbonoff11?style=for-the-badge&logo=github&logoColor=%2300ffff&label=GitHub%20follower&labelColor=%23555555&color=%2300ffff)
 
-<h2 align="left">My Skills</h2>
+| [![GitHub Streak](https://streak-stats.demolab.com?user=qurbonoff11&hide_border=false&border_radius=15&background=323232&ring=00ffff&stroke=fff&border=00ffff&fire=fff&currStreakNum=fff&sideNums=00ffff&currStreakLabel=fff&sideLabels=fff&dates=00ffaa)](#) | ![Qurbonoff's GitHub stats](https://github-readme-stats.vercel.app/api?username=qurbonoff11&show_icons=true&icon_color=00ffff&bg_color=323232&text_color=00ffaa&title_color=00ffff&border_color=00ffff&border_radius=15) |
+| ------------- | ------------- |
 
-###
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qurbonoff11&size_weight=0.5&count_weight=0.5&icon_color=00ffff&bg_color=323232&text_color=fff&title_color=00ffff&border_color=00ffff&border_radius=15) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qurbonoff11&langs_count=100&size_weight=0.5&count_weight=0.5&icon_color=00ffff&bg_color=323232&text_color=fff&title_color=00ffff&border_color=00ffff&border_radius=15)
+### GitHub Profile Insights
 
-<br clear="both">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qurbonoff11&bg_color=323232&color=fff&title_color=00ffff&line=00ffff&point=fff&hide_border=false)](#)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/pug/A86454" height="35" alt="pug logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="35" alt="less logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="35" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="35" alt="redux logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="35" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="35" alt="php logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="35" alt="gitlab logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt="git logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="35" alt="npm logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="35" alt="postman logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="35" alt="stackoverflow logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="35" alt="vite logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="35" alt="webpack logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="35" alt="wordpress logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="35" alt="yarn logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bots" height="35" alt="abbrobotstudio logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ae" height="35" alt="adobeaftereffects logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ai" height="35" alt="adobeillustrator logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ps" height="35" alt="adobephotoshop logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pr" height="35" alt="adobepremierepro logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=au" height="35" alt="adobeaudition logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=babel" height="35" alt="babel logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=md" height="35" alt="markdown logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=notion" height="35" alt="notion logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=phpstorm" height="35" alt="phpstorm logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="35" alt="powershell logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="35" alt="pycharm logo"  />
-</div>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient"/>
+</p>
 
-###
+___Thanks for visiting! Feel free to explore my repositories and collaborate on projects.___ <img src="https://i.giphy.com/23D8NR89IoZUC9jgsO.webp" alt="Hammer and Wrench" height="20" style="margin-bottom: -3px;"/>
+
+<!-- @Qurbonoff_11 tomindan tayorlangan -->
